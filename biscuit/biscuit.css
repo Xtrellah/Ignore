@@ -1,0 +1,18 @@
+img {
+    max-width: 250px;
+}
+
+.container {
+    padding: 10px;
+}
+
+.target {
+    padding: 10px;
+    gap: 10px;    
+    width: 250px;
+    height: 250px;
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
